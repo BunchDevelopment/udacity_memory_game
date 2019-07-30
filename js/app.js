@@ -179,7 +179,7 @@ var initGame = function(){
 }
 
 /*shuffles cards and starts game with 0 moves and starts event listeners*/
-alert("Welcome!\nIt will show the cards for 3 seconds, then its as simple as just matching the cards!\nClick ok when you're ready to begin!");
+alert("Welcome!\nIt will show the cards for 3 seconds, then it's as simple as just matching the cards!\nClick ok when you're ready to begin!");
 shuffleDeck();
 addMoves();
 /*shows cards for 3 seconds in beginning*/
